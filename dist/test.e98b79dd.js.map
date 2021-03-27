@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.js"],"names":["test","console","log"],"mappings":";;;;;;;AAAA,IAAMA,IAAI,GAAE,SAANA,IAAM,GAAK;AACjBC,EAAAA,OAAO,CAACC,GAAR,CAAY,uBAAZ;AACC,CAFD;;eAIeF","file":"test.e98b79dd.js","sourceRoot":"..\\src","sourcesContent":["const test =() =>{\r\nconsole.log(\"mensaje desde test.js\");\r\n}\r\n\r\nexport default test;"]}
